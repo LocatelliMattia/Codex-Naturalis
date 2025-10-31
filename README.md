@@ -1,4 +1,4 @@
-![Codex Naturalis Gameplay](CodexNaturalis/immages/codex_naturalis.jpg)
+![Codex Naturalis Gameplay](CodexNaturalis/images/codex_naturalis.jpg)
 # Codex Naturalis
 This project is a software implementation of the **Codex Naturalis** board game, developed as part of the Software Engineering final project for the academic year 2023-2024. It includes both simplified and complete rule sets, and was designed as a client-server application using the **Model-View-Controller** architecture.
 
