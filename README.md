@@ -53,5 +53,5 @@ The application incorporates the following key elements:
 ## Team
 
 [@jihadfounoun](https://github.com/jihadfounoun)<br>
-[@MattiaLocatelli (Accademic)](https://github.com/MattiaLocatelli) [@LocatelliMattia (Personal)](https://github.com/LocatelliMattia)<br>
+[@MattiaLocatelli (Academic)](https://github.com/MattiaLocatelli) [@LocatelliMattia (Personal)](https://github.com/LocatelliMattia)<br>
 [@AminaElKharouai](https://github.com/AminaElKharouai)<br>
